@@ -35,3 +35,5 @@ var undef; //undefined, 未賦值時變數為未定義
 //檢查型別 typeof
 typeof true; //'boolean'
 typeof "uwu"; //'string'
+
+//2024-02-23 by watercatuwu
